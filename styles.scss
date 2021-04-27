@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~perfect-scrollbar/css/perfect-scrollbar.css';
+
+:root {
+    --color-1: #0466c8;
+    --color-2: #ffd500;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: var(--color-1);
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+
+hr {
+    border-color: #ffffff17;
+    margin: 2rem 0;
+}
